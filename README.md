@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -16,7 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [AI Collaboration](#ai-collaboration)
   - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -29,11 +28,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social links profile solution](https://www.frontendmentor.io/solutions/social-links-profile-lA43lGGyLx)
+- Live Site URL: [Social links profile](https://github.com/ulrichneud/social-links-profile/)
 
 ## My process
 
@@ -48,7 +46,6 @@ Users should be able to:
 
 Mobile-first workflow
 
-
 ### AI Collaboration
 
 Since for this challenge you don't get a figma design folder in free mode I used AI to see if my code match design as closely as possible.
@@ -57,4 +54,3 @@ Since for this challenge you don't get a figma design folder in free mode I used
 
 - Website - [Nsan Eto](https://github.com/ulrichneud/)
 - Frontend Mentor - [@ulrichneud](https://www.frontendmentor.io/profile/ulrichneud)
-
